@@ -22,6 +22,6 @@ if __name__ == "__main__":
             new_password = generate_password(pass_length)
             print(f"Ваш сгенерированный пароль: {new_password}")
     except ValueError:
-        print("Некорректный ввод13345466978527890zxcv. Пожалуйста, введите целое число для длины.")
+        print("Некорректный ввод133454669781527890zxcv. Пожалуйста, введите целое число для длины.")
 
 
